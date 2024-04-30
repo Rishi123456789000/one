@@ -1,0 +1,29 @@
+body{
+    background-color: rosybrown;
+}
+h1{
+    color: black;background-color: antiquewhite;font-style: initial;
+}
+h2{
+    color:white; background-color: black;
+
+}
+pre{
+    color: black;font-size: medium;font-style: italic; font-size: larger;
+}
+h4 {
+    color:white; background-color: black;
+
+}
+h5{
+    color:white; background-color: black;
+
+}
+h6{
+    color:white; background-color: black;font-size: medium;
+
+}
+h3{
+    color:white; background-color: black;
+
+}
